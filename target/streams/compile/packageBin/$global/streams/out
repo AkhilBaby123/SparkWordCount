@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/Akhil/IdeaProjects/SparkWordCount/target/scala-2.10/sparkwordcount_2.10-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Akhil/IdeaProjects/SparkWordCount/target/scala-2.10/classes/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/Akhil/IdeaProjects/SparkWordCount/target/scala-2.10/classes/WordCount.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
